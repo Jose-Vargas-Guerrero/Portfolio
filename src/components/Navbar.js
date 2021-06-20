@@ -3,7 +3,7 @@ import './Navbar.css';
 function Navbar() {
     return (
         <>
-          <nav className="navbar navbar-expand-md navbar-light " id="navbar-background">
+          {/* <nav className="navbar navbar-expand-md navbar-light " id="navbar-background">
         <div className="container-fluid" id="real-navbar">
             <a className="navbar-brand" id="link" href="#hero-container">Grupo JM</a>
             <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"  aria-label="Toggle navigation">
@@ -18,7 +18,7 @@ function Navbar() {
         </div>
         </div>
         </div>
-        </nav>  
+        </nav>   */}
         </>
     )
 }

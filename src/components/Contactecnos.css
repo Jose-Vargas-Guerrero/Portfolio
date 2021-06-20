@@ -1,5 +1,10 @@
 /* contactenos container style */
 
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
 #contactenos-container{
     height: auto;
 }
