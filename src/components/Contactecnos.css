@@ -1,0 +1,52 @@
+/* contactenos container style */
+
+#contactenos-container{
+    height: auto;
+}
+
+#contactenos-text{
+    height: auto;
+    max-width: 100vw;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.t1{
+    color: gray;
+    font-size: 3rem;
+    text-align: start;
+}
+
+.t2{
+    font-size: 2rem;
+    text-align: start;
+}
+
+#informacion{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.informacion{
+    text-decoration: none;
+    color: #000000;
+    font-size: 1rem;
+}
+
+@media (max-width: 575.98px) {
+    .t1{
+        font-size: 2rem;
+    }
+    .informacion{
+        font-size: 1.1rem;
+        margin: 0.4rem;
+    }
+}
+
+
+

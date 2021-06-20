@@ -1,0 +1,14 @@
+/* navbar styles */
+
+.navbar{
+  background-color: #212529;
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 11;
+}
+
+
+  #link{
+    color: white;
+  }
