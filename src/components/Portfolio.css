@@ -25,6 +25,12 @@
     font-size: 1.2rem;
 }
 
+.descripcion{
+    color: #ffffff;
+    text-align: center;
+    margin: 0.3rem 0rem;
+}
+
 /* portfolio links styles */
 
 .contenedor-sitios{

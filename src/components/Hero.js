@@ -47,11 +47,10 @@ function Hero() {
                 <div className="col order-1" id="content-col">
                     <motion.h3 variants={title} initial="hidden" animate="visible" className="name">Grupo JM</motion.h3>
                     <motion.div variants={appear} initial="hidden" animate="visible">
-                    <h1 className="title">we enginer ecomerce</h1>
-                    <p className="sub-text">orem Ipsum is simply dummy text of the printing and typesetting industry.
-                     Lorem Ipsum has been the industry's standard dummy text ever since the 150
-                     Ipsum.</p>
-                     <a href="#nosotros" className="btn btn-dark">Descubre</a>
+                    <h1 className="title">Diseñamos sitios web</h1>
+                    <p className="sub-text">Podemos crear la solucion que necesitas ya sea un sitio web o una plataforma
+                    Ecommerce, nosotros lo creamos.</p>
+                     <a href="#nosotros"><i class="fas fa-long-arrow-alt-down flecha"></i></a>
                     </motion.div>
                 </div>
                 <motion.div variants={image} initial="hidden" animate="visible" className="col order-2 col-lg-5" id="col-img">
