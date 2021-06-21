@@ -17,7 +17,7 @@ function Contactenos() {
                     <p className="informacion">Choluteca - Honduras</p>
                     <p className="informacion">Siguenos En</p>
                     <a href="https://www.instagram.com/josevargas3117/" target="_blank" rel="noreferrer"><i class="fab fa-instagram informacion"></i></a>
-                    <p className="informacion">© Grupo JM. Todos los derechos reservados</p>
+                    <p className="derechos">© Grupo JM. Todos los derechos reservados</p>
                 </div>
             </div>
         </div>
